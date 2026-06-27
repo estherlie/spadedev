@@ -1,24 +1,11 @@
 ### Mabuhay! 👋
-Welcome to my GitHub Profile. I am currently in 3rd Year in Bachelor of Science in Computer Engineering at Polytechnic University of the Philippines. Dedicated to any project that I handle, full of curiosity to explore different programming languages, and I am energized in challenges that I need to solve. 
 
+Welcome to my GitHub profile!
+
+I'm a cybersecurity enthusiast who enjoys learning about offensive security, web application security, and mobile security. This GitHub serves as a collection of my projects, research, write-ups, and tools as I continue my learning journey.
+
+Feel free to explore my repositories, and I hope you find something useful. Enjoy!
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=spadedev&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spadedev)](https://github.com/anuraghazra/github-readme-stats)
-
-<!--
-
-
-**spadedev/spadedev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
